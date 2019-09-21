@@ -1,3 +1,5 @@
 Test Git Demo
 
 no i jesteśmy na testBranch
+
+dodajemy kolejną linię
